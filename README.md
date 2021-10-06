@@ -51,7 +51,7 @@ I'm always open to collaborating with open source projects if within my grasp, a
 
 ### 🎙 I just won't stop talking about...
 
-Let's be fair: yes, I enjoy programming and I could talk about good practices and clean code for a while, but I also have outside hobbies. I am very passionate about 📸photography and I am a 🎮gamer at heart, so if you want to spend the eternity talking, hit me up with some Warcraft questions!
+Let's be fair: yes, I enjoy programming and I could talk about good practices and clean code for a while, but I also have outside hobbies. I am very passionate about 📸[photography](https://500px.com/p/lucasmundim044?view=photos) and I am a 🎮gamer at heart, so if you want to spend the eternity talking, hit me up with some Warcraft questions!
 
 ### 📬 Reach me
 
