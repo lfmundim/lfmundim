@@ -37,7 +37,7 @@ TL;DR:
 ---
 ### 🔭 Current Status
 
-Currently I work at _Microsoft_, while also providing freelance services with my own company _Palavrinha_, with experiences including but not limited to working with foreign companies from 🇩🇪Germany
+Currently I provide freelance services with my own company _Palavrinha_, with experiences including but not limited to working with foreign companies from 🇩🇪Germany and the 🇺🇸USA
 
 ### 📚 Learning
 
